@@ -4,5 +4,5 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=MHeMoTexHuK&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHeMoTexHuK&layout=compact" />
 </a>
