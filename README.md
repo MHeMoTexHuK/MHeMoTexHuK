@@ -1,5 +1,9 @@
 # Mnemotechnican
 
+CEO of the [Flarogus Organisation](https://github.com/flarogus)
+
+-----
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=Mnemotechnician&show_icons=true&theme=tokyonight" />
 </a>
