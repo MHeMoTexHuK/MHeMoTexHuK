@@ -1,6 +1,6 @@
 # Mnemotechnican
 
-CEO of the [Flarogus Organisation](https://github.com/flarogus)
+CEO of [MinChat Official](https://github.com/minchat-official) and [the Flarogus Organisation](https://github.com/flarogus)
 
 -----
 
